@@ -14,7 +14,7 @@ Some other things I've done recently include:
 * Helping to build the [Web Dev Bootcamp](https://stjosephctr.org/codetalk/) at the St. Joseph Center in Venice, CA
 * Built my friend an app for [Mazetoons](https://mazetoonsapp.com/) during covid to better learn html5 canvas
 * Teaching courses for [Develop Intelligence](https://www.developintelligence.com/)
-* Built out V1 curriculum for ThriveDX
+* Built out V1 curriculum for ThriveDX with a super amazing team
 
 ## diy.dev
 After all this time getting frustrated by bootcamps and the lack of job readiness grads experience, I've decided to fill in some of those gaps. I'm doing so under the name [diy.dev](https://diy.dev). You'll find that things are a bit sparse right now, but need to start somewhere. 
